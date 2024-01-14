@@ -1,0 +1,14 @@
+.nav-bar{
+    background-color: black;
+    height: 30px;
+    padding-top: 8px;
+    padding-left: 2px;
+    margin: 0%;
+}
+.touch{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    text-transform: capitalize;
+   
+}
